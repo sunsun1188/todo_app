@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('☑️To-do App☑️')
+st.title('️🐿️To-do App🐿️')
 
 
 # 1. todo 입력칸 제공
